@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS_for_JKX1", "IS_for_JKX1\IS_for_JKX1.csproj", "{24E527F0-081B-4667-8DF1-57DA3C2D071E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ИС для ЖКХ", "ИС для ЖКХ\ИС для ЖКХ.vdproj", "{4BADC227-6B2B-44EB-A05F-72E0C7288563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E527F0-081B-4667-8DF1-57DA3C2D071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E527F0-081B-4667-8DF1-57DA3C2D071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E527F0-081B-4667-8DF1-57DA3C2D071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E527F0-081B-4667-8DF1-57DA3C2D071E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BADC227-6B2B-44EB-A05F-72E0C7288563}.Debug|Any CPU.ActiveCfg = Debug
+		{4BADC227-6B2B-44EB-A05F-72E0C7288563}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D06222-213D-4CF3-95BD-BD48F4B659EE}
+	EndGlobalSection
+EndGlobal
